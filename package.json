@@ -1,0 +1,22 @@
+{
+  "name": "projectant",
+  "version": "1.0.0",
+  "description": "projectant",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosyago-corp/projectant.git"
+  },
+  "keywords": [
+    "projectant"
+  ],
+  "author": "dosy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dosyago-corp/projectant/issues"
+  },
+  "homepage": "https://github.com/dosyago-corp/projectant#readme"
+}

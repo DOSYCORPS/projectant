@@ -1,0 +1,21 @@
+[submodule "pa-os-desktopclient"]
+	path = pa-os-desktopclient
+	url = git@github.com:dosyago-corp/pa-os-desktopclient.git
+[submodule "pa-os-server"]
+	path = pa-os-server
+	url = git@github.com:dosyago-corp/pa-os-server.git
+[submodule "dosyhil"]
+	path = dosyhil
+	url = git@github.com:dosyago-coder-0/dosyhil.git
+[submodule "dosylook"]
+	path = dosylook
+	url = git@github.com:dosyago-coder-0/dosylook.git
+[submodule "dosycanvasdomtracker"]
+	path = dosycanvasdomtracker
+	url = git@github.com:dosyago-coder-0/dosycanvasdomtracker.git
+[submodule "dosylogo"]
+	path = dosylogo
+	url = git@github.com:dosyago-coder-0/dosylogo.git
+[submodule "selector-generalization"]
+	path = selector-generalization
+	url = git@github.com:dosyago-coder-0/selector-generalization.git
