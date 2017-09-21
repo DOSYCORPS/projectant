@@ -8,7 +8,7 @@ npm run watch start &
 echo "Starting databases..."
 sudo service neo4j start
 sudo service mysql start
-mongod --dbpath=$HOME/pa-os-server/doc-data
+mongod --dbpath=$HOME/projectant/mongo-data
 echo "Started databases."
 cd ../pa-os-server
 npm run watch start 
