@@ -1,0 +1,17 @@
+echo "Installing all submodules..."
+cd pa-os-desktopclient
+npm install
+cd ../pa-os-server
+npm install
+cd ../dosycanvasdomtracker
+npm install
+cd ../dosyhil
+npm install
+cd ../dosylogo
+npm install
+cd ../dosylook
+npm install
+cd ../selector-generalization
+npm install
+echo "Done"
+
