@@ -11,7 +11,6 @@ db = {
   places: [
     'place a',
     'place b'
-  
   ],
   map : {
     places: [
@@ -24,3 +23,4 @@ db = {
       'general'
     ]
   }
+};
