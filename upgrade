@@ -1,0 +1,17 @@
+echo "Upgrading all submodules..."
+cd pa-os-desktopclient
+npm upgrade
+cd ../pa-os-server
+npm upgrade
+cd ../dosycanvasdomtracker
+npm upgrade
+cd ../dosyhil
+npm upgrade
+cd ../dosylogo
+npm upgrade
+cd ../dosylook
+npm upgrade
+cd ../selector-generalization
+npm upgrade
+echo "Done"
+

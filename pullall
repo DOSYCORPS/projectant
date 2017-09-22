@@ -1,0 +1,17 @@
+echo "Syncing all submodules..."
+cd pa-os-desktopclient
+git pull
+cd ../pa-os-server
+git pull
+cd ../dosycanvasdomtracker
+git pull
+cd ../dosyhil
+git pull
+cd ../dosylogo
+git pull
+cd ../dosylook
+git pull
+cd ../selector-generalization
+git pull
+echo "Done"
+
