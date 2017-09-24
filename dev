@@ -3,7 +3,7 @@ echo "Starting Dev Environment..."
 echo "Starting client..."
 trap 'kill %1' SIGINT
 cd ./pa-os-desktopclient
-google-chrome-stable --new-window http://localhost:9222 & 
+google-chrome-stable --new-window http://localhost:9222 --user-data-dir=$HOME/chrome-working-directory &
 npm run watch start & 
 echo "Starting databases..."
 sudo service neo4j start
