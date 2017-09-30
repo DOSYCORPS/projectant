@@ -13,5 +13,7 @@ cd ../dosylook
 git pull
 cd ../selector-generalization
 git pull
+cd ../ideas
+git pull
 echo "Done"
 

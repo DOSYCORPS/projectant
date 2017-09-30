@@ -19,3 +19,6 @@
 [submodule "selector-generalization"]
 	path = selector-generalization
 	url = git@github.com:dosyago-coder-0/selector-generalization.git
+[submodule "ideas"]
+	path = ideas
+	url = git@github.com:dosyago-coder-0/ideas.git
