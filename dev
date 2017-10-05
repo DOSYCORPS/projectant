@@ -6,9 +6,9 @@ cd ./pa-os-desktopclient
 google-chrome-stable --new-window http://localhost:9222 --user-data-dir=$HOME/chrome-working-directory &
 npm run watch start & 
 echo "Starting databases..."
-sudo service neo4j start
+#sudo service neo4j start
 sudo service mysql start
-mongod --dbpath=$HOME/projectant/mongo-data
+#mongod --dbpath=$HOME/projectant/mongo-data
 echo "Started databases."
 cd ../pa-os-server
 npm run watch start 
